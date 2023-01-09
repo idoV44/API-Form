@@ -6,3 +6,6 @@ Using the following website, the user enters the details which, by clicking the 
 <img src="https://cdn.iconscout.com/icon/free/png-256/php-3521631-2945075.png" width="80" >
 </p>
 
+--------------
+
+<img src="https://raw.githubusercontent.com/idovad/Form-API/main/Preview.jpg" width="700" >
