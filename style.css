@@ -1,0 +1,29 @@
+
+
+body {
+    background: #4f6875;
+    font-family: 'Helvetica';
+  }
+  
+  
+  table, th, td {
+      border: 1px solid black;
+	  border-radius: 10px;
+
+  }
+  th, td {
+  background-color: #718a96;
+}
+  
+  table, th, td {
+	  border: 1px solid black;
+	  border-radius: 10px;
+      font-family: 'calibri';
+      margin: 0 auto;
+  }
+  
+  
+  resulttable {
+      table-layout: fixed;
+  }
+
